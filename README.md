@@ -47,7 +47,7 @@ Fig 7. Scores by School Size (Top: orignal; Bottom: updated)
 Fig 8. Scores by School Type (Top: orignal; Bottom: updated)
    
 ## Summary
-Replacing reading and math scores for the ninth grade at Thomas High School made a slight impact on the school district metrics. 
+Replacing reading and math scores for the ninth grade at Thomas High School made an impact on the school district metrics. 
 1.    The major impact is on school district summary, excluding the ninth graders decrease overall average math score, average reading score, the percentages of students who pass math, reading and both.
 2.    The school summary from Thomas High School has slightly higher average reading score after the replacement, but average math score, percentages of student passing math, reading and both all decrease slightly. However, the minor change in the scores doesn’t impact the overall ranking of Thomas High School.
 3.    Replacing the math and reading score didn’t change scores from other schools or from 10th to 12th grade from Thomas High School. The only difference is ninth grader’s cores are shown as NaN.
